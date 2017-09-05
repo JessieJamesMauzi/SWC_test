@@ -3,6 +3,8 @@
 ## Abstract
 
 ## Introduction
+	Learning to create git files and manipulating them
+## Material
 
 ## Results
 
